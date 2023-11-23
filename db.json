@@ -1,0 +1,12 @@
+{
+  "usuarios": [
+    {
+      "nome": "Juan Maravilhoso",
+      "idade": "19",
+      "cpf": "90990990999",
+      "telefone": "83965752471",
+      "id": 6
+    }
+  ],
+  "mensagens": []
+}
